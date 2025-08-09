@@ -3,5 +3,5 @@ services:
     image: pokedex:1.0
     container_name: pokedex
     ports:
-      - "8080:80"
+      - "3000:80"
     restart: always
