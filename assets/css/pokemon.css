@@ -1,0 +1,57 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #fff;
+    padding: 20px;
+}
+
+.pokemon-card {
+    background-color: #e0e0e0;
+    border-radius: 1rem;
+    padding: 1.5rem;
+    max-width: 400px;
+    margin: auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.pokemon-card img {
+    width: 150px;
+    height: auto;
+}
+
+.pokemon-number {
+    color: #999;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.pokemon-name {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0.5rem 0;
+    text-transform: capitalize;
+}
+
+.types {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.type {
+    padding: 5px 10px;
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+p {
+    font-weight: 500;
+}
