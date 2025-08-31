@@ -11,7 +11,7 @@
 
 Deploy em uma VPS Oracle (OCI).
 
-http://dev.rcs.ip-ddns.com/
+http://pokedex.rafaelciriaco.com.br:3000/
 
 OBS: Lembrando que por ser gratuito pode conter instabilidades no servidor.
 
